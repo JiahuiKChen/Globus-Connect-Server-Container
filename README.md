@@ -8,7 +8,7 @@ Run this container with:
 Replacing `<globus id>` with the Globus ID/username for the Globus organization account the endpoint will be administered by (username only, without the @globusid.org ending). Replacing `<globus password>` with this account's password.
 
 
-After the run command an endpoint should be created and visible: https://www.globus.org/app/endpoints
+After the run command an endpoint should be created and visible: https://app.globus.org/endpoints
 The default endpoint visibility is private. Endpoint attributes can be configured through Globus's web portal. It may take up to a minute before the Endpoint shows up in the webpage.
 
 
